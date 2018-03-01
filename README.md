@@ -23,3 +23,7 @@ Once the repo is cloned/forked and cd'd into, the database bamazonDB is created 
 
 A user can input an item_id for an aircraft using Inquirer
 ![image](https://user-images.githubusercontent.com/8611986/36873667-5efc8b92-1d66-11e8-9f7c-28a2415335d0.png)
+
+If a user tries to buy more aircraft than are available, the user will be prompted to select a lesser quantity.
+![image](https://user-images.githubusercontent.com/8611986/36875197-35c4e656-1d6c-11e8-8aa5-adf00138e88e.png)
+
